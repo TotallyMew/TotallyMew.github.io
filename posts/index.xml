@@ -13,7 +13,7 @@
       <link>https://TotallyMew.github.io/posts/first-post/</link>
       <pubDate>Mon, 12 Jan 2026 02:17:05 +0200</pubDate>
       <guid>https://TotallyMew.github.io/posts/first-post/</guid>
-      <description>&lt;p&gt;This is my first Hugo post created by Augustas&lt;/p&gt;&#xA;&lt;p&gt;![Test Image] (images/kass.jpg)&lt;/p&gt;</description>
+      <description>&lt;p&gt;This is my first Hugo post created by Augustas&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/kass.jpg&#34; alt=&#34;Test Image&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
